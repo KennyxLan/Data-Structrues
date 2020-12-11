@@ -1,3 +1,4 @@
+OUTPUT:
 inputVector.size() = 18 ;
 " 11" successfully inserted!
 "  9" successfully inserted!
